@@ -1,0 +1,135 @@
+{
+    "Language": "zh",
+    "Mode": "InDepth",
+    "RollCakeWood": {
+        "check": true,
+        "min": 1000,
+        "type": "basic",
+        "name": "RollCakeWood"
+    },
+    "Jellybean": {
+        "check": true,
+        "min": 1500,
+        "type": "basic",
+        "name": "Jellybean"
+    },
+    "SugarCubes": {
+        "check": true,
+        "min": 1000,
+        "type": "basic",
+        "name": "SugarCubes"
+    },
+    "BiscuitFlour": {
+        "check": true,
+        "min": 500,
+        "type": "basic",
+        "name": "BiscuitFlour"
+    },
+    "Jellyberry": {
+        "check": true,
+        "min": 1000,
+        "type": "basic",
+        "name": "Jellyberry"
+    },
+    "Milk": {
+        "check": true,
+        "min": 500,
+        "type": "basic",
+        "name": "Milk"
+    },
+    "RobustAxe": {
+        "check": true,
+        "min": 40,
+        "type": "mixture"
+    },
+    "TemperedPickaxe": {
+        "check": true,
+        "min": 40,
+        "type": "mixture"
+    },
+    "CandySaw": {
+        "check": true,
+        "min": 40,
+        "type": "mixture"
+    },
+    "DiggtShovel": {
+        "check": true,
+        "min": 40,
+        "type": "mixture"
+    },
+    "EnchantedStake": {
+        "check": false,
+        "min": 30,
+        "type": "mixture"
+    },
+    "JellybeanJam": {
+        "check": true,
+        "min": 30,
+        "type": "mixture"
+    },
+    "SweetJellyJam": {
+        "check": true,
+        "min": 30,
+        "type": "mixture"
+    },
+    "ToffeeJam": {
+        "check": true,
+        "min": 30,
+        "type": "mixture"
+    },
+    "PineconeBirdyToy": {
+        "check": true,
+        "min": 50,
+        "type": "mixture"
+    },
+    "AcornLamp": {
+        "check": true,
+        "min": 30,
+        "type": "mixture"
+    },
+    "HeartyRye": {
+        "check": true,
+        "min": 30,
+        "type": "mixture"
+    },
+    "TartJampie": {
+        "check": true,
+        "min": 30,
+        "type": "mixture"
+    },
+    "HotJellyStew": {
+        "check": true,
+        "min": 30,
+        "type": "mixture"
+    },
+    "BearJellyBurger": {
+        "check": true,
+        "min": 30,
+        "type": "mixture"
+    },
+    "BiscuitPlanter": {
+        "check": true,
+        "min": 30,
+        "type": "mixture"
+    },
+    "ShinyGlass": {
+        "check": true,
+        "min": 30,
+        "type": "mixture"
+    },
+    "CandyFlower": {
+        "check": true,
+        "min": 30,
+        "type": "mixture"
+    },
+    "Cream": {
+        "check": true,
+        "min": 30,
+        "type": "mixture"
+    },
+    "JellybeanLatte": {
+        "check": true,
+        "min": 30,
+        "type": "mixture"
+    }
+}

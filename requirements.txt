@@ -1,0 +1,6 @@
+opencv-python<=4.5.1.48
+pyqt5
+pyqt5-tools
+Pillow
+joblib
+scikit-learn==0.24.0
